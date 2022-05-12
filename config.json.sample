@@ -1,0 +1,6 @@
+{
+    "url": "https://<subdomain>.webuntis.com",
+    "school": <school>,
+    "username": <username>,
+    "password": <password>
+}
