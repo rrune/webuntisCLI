@@ -3,7 +3,7 @@ This is a really simple tool to get your timetable from webuntis.
 
 # Usage
 
-Get your timetable for today
+Get your timetable for tomorrow
 ```bash
 webuntis
 ```
@@ -12,9 +12,13 @@ Get your timetable for today + n
 ```bash
 webuntis n
 ```
-for example, tomorrow would be
+for example, today would be
 ```bash
-webuntis 1
+webuntis 0
+```
+The day after tomorrow would be
+```bash
+webuntis 2
 ```
 
 # Installation/Building

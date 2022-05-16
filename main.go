@@ -51,7 +51,7 @@ func main() {
 			panic(err)
 		}
 	} else {
-		res, err = webuntis.GetTimetableForStudent(0)
+		res, err = webuntis.GetTimetableForStudent(1)
 	}
 	if err != nil {
 		panic(err)
